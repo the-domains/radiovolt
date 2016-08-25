@@ -1,0 +1,14 @@
+layout_spectrum: 0.26613150839693844
+typography_spectrum: 0.30888034240342677
+color:
+  brandStrength: 0.9706160705536604
+  lightness: 0.2116225459612906
+  saturation: 0.5752683160826564
+  rhythmicContrast: 0.9301698768977076
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: RadioVolt
