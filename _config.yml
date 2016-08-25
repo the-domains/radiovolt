@@ -6,9 +6,9 @@ color:
   saturation: 0.5752683160826564
   rhythmicContrast: 0.9301698768977076
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: RadioVolt
