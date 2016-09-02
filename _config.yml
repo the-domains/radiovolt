@@ -12,5 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.26613150839693844
 name: RadioVolt
+navigation:
+  - name: Chuck Michlin's Blog
+    url: electravolt.blogspot.com
+    type: external
 title: Music For The People
 description: For Those Who Can Hear The Difference
